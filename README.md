@@ -9,6 +9,9 @@
 Предложение: Зритель вечером глазами смотрит youtube по телевизору, подключенному к интернету
 
 ## Class Diagram
+![none](https://github.com/Severyanochka/Severyanochka.github.io/blob/main/Лабораторная%201/Class%20Diagram.png)
+## Usecase Diagram
+
 
 ## Лабораторная 2
 
