@@ -11,7 +11,7 @@
 ## Class Diagram
 ![none](https://github.com/Severyanochka/Severyanochka.github.io/blob/main/Лабораторная%201/Class%20Diagram.png)
 ## Usecase Diagram
-
+![none](https://github.com/Severyanochka/Severyanochka.github.io/blob/main/Лабораторная%201/Usecase%20Diagram.png)
 
 ## Лабораторная 2
 
