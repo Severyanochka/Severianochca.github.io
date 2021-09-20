@@ -2,7 +2,7 @@
 # студента группы ИДБ-18-06 Мельникова Полиночка Андреевна
 
 ## Лабораторная 1
-
+![none](https://github.com/Severyanochka/Severyanochka.github.io/blob/main/Лабораторная%201/model.png)
 Текст с постановкой задачи
 
 
