@@ -34,7 +34,7 @@
 Из списка сотрудников можно перейти в распределение задач, где задачи можно редактировать, в карточку конкретного сотрудника, с информацией из базы данных Работник, где информацию о сотрудниках можно редактировать
 
 ## Usecase diagram
-![none](
+![none](https://github.com/Severyanochka/Severyanochka.github.io/blob/main/Лабораторная%201/fL7DIiD043vtdsB8IGy57q2agUT0RfwNP6r3qwniDdYmGXl5avYhu4byWI06WctQLvXv8oUaqTnbMNRuVhxPsPsaLXgRBMEHBgBaHXgv11bORU1EZAOoMCoCpfBmKiSCNSqZgyJ8DKRVTiWqPWaBjGcL6KBtWxmiLO5CrRyJOtLjmMemqMnk8OoC2coa4z7Trpy3cOA3R_I2NrWxHzWxmg.png)
 
 ## Лабораторная 3
 
