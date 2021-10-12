@@ -15,7 +15,7 @@
 
 ## Лабораторная 2
 ## IDEF0
-![none](https://github.com/Severyanochka/Severyanochka.github.io/blob/main/Лабораторная%201/Снимок1.PNG)
+![none](https://github.com/Severyanochka/Severyanochka.github.io/blob/main/Лабораторная%201/01_A0.png)
 
 ## Лабораторная 3
 
