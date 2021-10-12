@@ -14,6 +14,8 @@
 ![none](https://github.com/Severyanochka/Severyanochka.github.io/blob/main/Лабораторная%201/Usecase%20Diagram.png)
 
 ## Лабораторная 2
+## IDEF0
+
 
 ## Лабораторная 3
 
